@@ -1,1 +1,1 @@
-Hello World project
+this is a c hello world readme
